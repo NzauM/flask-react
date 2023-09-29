@@ -14,11 +14,20 @@ with app.app_context():
         authors.append(author)
     db.session.add_all(authors)
     db.session.commit()
+
+    dbAuthors = Author.query.all()
+    # for author in dbAuthors:
+    #     print (author.id)
+
     print("Authors Seeded")
+    # print(Author.query.first().id)
+
+    # print(Author.query.filter_by(na).first().id)
+    # print(Author.query.filter_by(id=1).first().name)
 
     books = []
-    for i in range (1,21):
-        book = Book(name=fake.name(), author_id=i)
+    for author in dbAuthors:
+        book = Book(name=fake.name(), author_id=author.id)
         books.append(book)
     db.session.add_all(books)
     db.session.commit()

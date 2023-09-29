@@ -4,9 +4,11 @@ function Books(){
     const[books, setBooks] = useState([])
     const[authors, setAuthors] = useState([])
     useEffect(()=>{
-        fetch('/api/books').then(r=>r.json()).then(data=>setBooks(data))
-        fetch('/api/authors').then(r=>r.json()).then(data=>setAuthors(data))
+        fetch('/books').then(r=>r.json()).then(data=>setBooks(data))
+        fetch('/authors').then(r=>r.json()).then(data=>setAuthors(data))
     },[])
+    console.log(books)
+    console.log(authors)
     const bkList = books.map((book)=>{
         return(
             <>

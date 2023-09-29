@@ -6,18 +6,18 @@ import Books from './Books'
 
 function App() {
   const [count, setCount] = useState(0)
-  const[salamu, setSalamu] = useState('')
+  // const[salamu, setSalamu] = useState('')
 
-  useEffect(()=>{
-    fetch('/api').then(r=>r.json()).then(data=>setSalamu(data.hello))
-  },[])
+  // useEffect(()=>{
+  //   fetch('/').then(r=>r.json()).then(data=>setSalamu(data.hello))
+  // },[])
 
 
   return (
     <>
       
       <h1>Lib App</h1>
-      <h1>{salamu}</h1>
+      {/* <h1>{salamu}</h1> */}
       <Books/>
       
     </>
