@@ -1,13 +1,15 @@
-<mxfile host="65bd71144e">
-    <diagram id="l1hVxGTXgAkFlnEqkT3v" name="Page-1">
-        <mxGraphModel dx="605" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="230" width="120" height="60" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-</mxfile>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="461px" height="241px" viewBox="-0.5 -0.5 461 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;l1hVxGTXgAkFlnEqkT3v&quot; name=&quot;Page-1&quot;&gt;xZZNc4MgEIZ/jdeOEb+ubZq2l55y6JnRrTKD4hASTX99MSx+VB0z0zS9KDwsgXf3BeOQbdG8Slrl7yIF7nhu2jjk2fG80A30swVnAzZ+ZEAmWYqoB3v2BQhdpEeWwmEUqITgilVjmIiyhESNGJVS1OOwT8HHq1Y0gwnYJ5RP6QdLVW5oHLg9fwOW5XbljYsjBbXBCA45TUU9QGTnkK0UQplW0WyBt7mzeTHzXhZGu41JKNU1E3wz4UT5EbXhvtTZioVUa8duKUr9espVwXVvo5smvI1Z3AGigzjKBKNwFUVlBhhFOvXaNSAKUPKsQyRwqthp/OsU65d1cb1E3UCV84q9dcV1zhTsK3rZba0dPCd5RuEJpIJmgKZyuhNgZlj/R9ivezdtrEXygZPsvN8kIPyfkpNpyYM7lZysK9bnsGqbB1ZmHB7bO0IrXTHC5SqxF4D74FuEF5YhC9aYydeiW7x43S7xH7kl/h+3BFO3RHdyS3CFYs71pwbWHXKD4vv+j+KH1xU/vkHxo/VUKMloe2Tuk4tgnAviTXMR3iYXutt/hS9jg78yZPcN&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 120 40 L 213.63 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 218.88 40 L 211.88 43.5 L 213.63 40 L 211.88 36.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="10" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 300 40 L 373.63 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 378.88 40 L 371.88 43.5 L 373.63 40 L 371.88 36.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 220 28 L 268 28 L 268 10 L 300 40 L 268 70 L 268 52 L 220 52 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 420 80 L 420 173.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 420 178.88 L 416.5 171.88 L 420 173.63 L 423.5 171.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="420" cy="40" rx="40" ry="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 390 160 L 450 200 L 390 240 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>
